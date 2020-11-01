@@ -12,3 +12,4 @@
 ***
 **9.** Змін у файлі не відбулось так як вони були зроблені віддалено а не на локальному ПК , для того щоб синхронізувати використав команду git pull
 ***
+**10.** ![alt text](https://expertphotography.com/wp-content/uploads/2011/06/how-to-take-good-pictures-image2.jpg)
