@@ -23,5 +23,5 @@ run:
 deploy:
 	@echo "Adding and Committing results.txt"
     	git add results.txt
-    	git commit -m "add file in lab2 results.txt"
+    	git commit -m "add file in Lab2 results.txt"
     	git push
